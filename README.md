@@ -24,3 +24,5 @@ Este projeto está sendo desenvolvido por:
 - [Rafael Borges - Líder/Dev](https://github.com/boregs)
 - [Luiz Guilherme - Dev](https://github.com/LuizGuilherme0310)
 - [Felipe Furlan - Análista](https://github.com/Triplof)
+- [Victor Marques - Tester](https://github.com/VictorMES)
+- [Gabriel Ferreira - Tester](https://github.com/GabrielFerreiraDeveloper)
