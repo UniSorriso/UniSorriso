@@ -1,16 +1,26 @@
-## Hi there 👋
+## UniSorriso - Gestão odontológica 🦷
 
-<!--
-**UniSorriso/UniSorriso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 Sobre o Projeto
+UniSorriso é um projeto acadêmico desenvolvido para a disciplina de Engenharia de software do curso de Análise e Desenvolvimento de Sistemas da Univercidade Cidade de São Paulo. O objetivo principal é criar um software moderno e intuitivo para a gestão de uma clínica odontológica, facilitando a organização de agendamentos, o gerenciamento de informações dos pacientes e a otimização dos processos internos.
 
-Here are some ideas to get you started:
+Este repositório contém todos os arquivos e o código-fonte referentes ao desenvolvimento do site da clínica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ✨ Funcionalidades Principais
+O sistema foi planejado para oferecer as seguintes funcionalidades:
+
+📅 Agendamento de Consultas: Permite que a recepção marque, visualize, edite e cancele consultas de forma simples e rápida.
+
+👤 Cadastro de Pacientes: Registro completo dos dados pessoais e de contato dos pacientes, com fácil acesso ao histórico.
+
+🩺 Prontuário Eletrônico: Armazenamento seguro do histórico de tratamentos, procedimentos, exames e observações de cada paciente.
+
+💰 Controle Financeiro: Gestão de pagamentos de consultas, tratamentos e geração de relatórios financeiros básicos.
+
+
+## 🧑‍💻 Autores e Contribuidores
+Este projeto está sendo desenvolvido por:
+
+- [Rafael Borges - Líder/Dev](https://github.com/boregs)
+- [Luiz Guilherme - Dev](https://github.com/LuizGuilherme0310)
+- [Felipe Furlan - Análista](https://github.com/Triplof)
